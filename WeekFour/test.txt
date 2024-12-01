@@ -1,0 +1,10 @@
+This file is created for testing.
+It is a simple text file with no special characters or formatting.
+It is used to test the functionality of the program.
+The program should be able to read this file and output the contents to the console.
+The program should also be able to handle any errors that may occur during the reading and outputting of the file.
+The program should also be able to handle any special characters or formatting that may be present in the file.
+The program should also be able to handle any files that may be too large to fit in memory.
+The program should also be able to handle any files that may be corrupted or incomplete.
+The program should also be able to handle any files that may be encrypted or password protected.
+The program should also be able to handle any files that may be in a different format or encoding.
